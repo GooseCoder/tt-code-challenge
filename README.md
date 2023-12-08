@@ -12,4 +12,4 @@ Run the following command
 $ node index.mjs 
 ```
 
-The file licenseFormatter has the solution the challenge
+The file licenseFormatter.mjs file has the solution the challenge
